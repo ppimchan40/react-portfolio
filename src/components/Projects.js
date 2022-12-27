@@ -15,26 +15,32 @@ export const Projects = () => {
     {
       description: "EliteMove UI",
       imgUrl: projImg1,
+      link: "https://elitemove-ui.vercel.app",
     },
     {
       description: "EliteMove APIs",
       imgUrl: projImg2,
+      link: "https://github.com/JSD3G6/backend",
     },
     {
       description: "Find Your Hat",
       imgUrl: projImg3,
+      link: "https://replit.com/@pavitpimchanagu/Pavit#index.js",
     },
     {
       description: "Jamming",
       imgUrl: projImg4,
+      link: "https://vercel.com/ppimchan40/jamming",
     },
     {
       description: "TGIX",
       imgUrl: projImg5,
+      link: "https://www.dga.or.th/policy-standard/standard/dga-005/tgix-framework/",
     },
     {
       description: "Rodray Application",
       imgUrl: projImg6,
+      link: "https://apps.apple.com/th/app/%E0%B8%A3%E0%B8%96%E0%B9%80%E0%B8%A3/id1598053144?l=th",
     },
   ];
 
